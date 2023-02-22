@@ -1,7 +1,5 @@
 # Week 0 — Billing and Architecture
 
-2XnOTAZ44SDDjvk07VdDG8S55.uTaI84
-
 ## Required Assignment
 * **Done**: I am done with 70% of my required assignments as at now, heading towards completion
 * **Blockers**: I had a conference to prepare as a sponsor and speaker the past week, and was a two day event on the 17th and 18th, hence, this made me loose days of work.
@@ -22,7 +20,7 @@
 
 ![IAM User](/journal/proof/MFA.png)
 
-[IAM role](/journal/proof/IAM%20role.png)
+[IAM role](/journal/proof/role.png)
 
 
  
