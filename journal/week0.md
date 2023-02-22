@@ -24,7 +24,9 @@
 
 ![IAM User](/journal/proof/MFA.png)
 
-[IAM role](/journal/proof/role.png)
+[IAM role Image URL](/journal/proof/role.png)
+
+![Logical Pipeline Diagram](/journal/proof/pipelineDiagram.png)
 
 
  
