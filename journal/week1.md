@@ -34,3 +34,14 @@ error logs below:
 2023-03-02 23:42:20 sh: 1: react-scripts: not found
 2023-03-02 23:42:57 sh: 1: react-scripts: not found
 ````
+
+## Resources and resource links
+![dockerized_frontend](journal/proof/Week1/dockerized_frontend.png)
+
+![Logical Docker images](/journal/proof/Week1/localimages.png)
+
+![Snyk report](/workspace/aws-bootcamp-cruddur-2023/journal/proof/Week1/snyk-conainer-vulnerability-scan.png)
+
+![Pushed to Repo - Frontend] (/journal/proof/Week1/dockerhub-front.png)
+
+![Pushed to Repo - Backend] (/journal/proof/Week1/dockerhub-back.png)
